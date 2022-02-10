@@ -218,7 +218,7 @@ cleanup with empty dependency array []:-
 ============================================
 this will work in once in life of component 
 mount --> effect function will run
-update --> Nothing will happen
+update --> Nothing will happen.
 when unmount --> cleanup will run 
 
    useEffect(() => {
